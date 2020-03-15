@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>NetatmoAPItoInfluxDB</Name>
+  <Repository>https://github.com/sbrooke/NetatmoAPItoInfluxDB</Repository>
+  <Registry/>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project>https://github.com/sbrooke/NetatmoAPItoInfluxDB</Project>
+  <Overview>Pull Netatmo stats using the API and send to InfluxDB</Overview>
+  <Category>Other:</Category>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon/>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1584284788</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Description>Pull Netatmo stats using the API and send to InfluxDB</Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish/>
+  </Networking>
+  <Data/>
+  <Environment/>
+  <Labels/>
+</Container>
